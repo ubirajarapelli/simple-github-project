@@ -8,6 +8,7 @@ Projeto simples para aprendizagem de git/github.
 + Mateus Galeazi
 + Ubirajara Pelli
 + Ellie de Oliveira
++ Ives Chiba
 + Joao Sant
 
 
