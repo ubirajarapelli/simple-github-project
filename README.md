@@ -7,3 +7,20 @@ Projeto simples para aprendizagem de git/github.
 + Ubirajara Pelli
 + Ellie de Oliveira
 + Joao Sant
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Levi Utima
