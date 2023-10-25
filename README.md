@@ -10,5 +10,6 @@ Projeto simples para aprendizagem de git/github.
 + Ellie de Oliveira
 + Ives Chiba
 + Joao Sant
++ Willian Dantas
 + Fifian Fu
 + Diego Cavalcanti (trovao100freio)
