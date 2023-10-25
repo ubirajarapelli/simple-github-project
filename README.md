@@ -10,3 +10,6 @@ Projeto simples para aprendizagem de git/github.
 + Ellie de Oliveira
 + Joao Sant
 
+
++ Diego Cavalcanti (trovao100freio)
+
